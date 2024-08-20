@@ -17,4 +17,4 @@ This repository is dedicated to analyzing and visualizing sentiment patterns in 
 
 ## Google Colab Notebook
 
-For those interested in the code behind the sentiment analysis, a Google Colab notebook is available[ here](https://colab.research.google.com/drive/13A8Zlxi_i9eSXw9fQ47qpgLtS37sUgjA?authuser=0#scrollTo=AnEJhHf25bp4) . This notebook includes the data processing and sentiment analysis steps, allowing you to explore and modify the analysis directly in your browse
+For those interested in the code behind the sentiment analysis, a Google Colab notebook is available[ here](https://colab.research.google.com/drive/13A8Zlxi_i9eSXw9fQ47qpgLtS37sUgjA?authuser=0#scrollTo=AnEJhHf25bp4) .
